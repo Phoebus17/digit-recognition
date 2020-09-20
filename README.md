@@ -29,6 +29,3 @@ This repository contains the following files-
 2. `test.ipynb` - Simple python notebook to test model.
 3. `ds_challenge_train.csv` - training dataset
 4. `test.csv` - mock-up testing dataset
-
-1. `photo_1.jpg` - Test image number 1 to test the classifier
-2. `photo_2.jpg` - Test image numbre 2 to test the classifier
