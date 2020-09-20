@@ -2,6 +2,8 @@
 
  Handwritten Digit Recognition  using CNN, sklearn and Python via Google Colaboratory.
 
+
+
 ## Environments
 
 1. Python 3.5+
@@ -16,3 +18,17 @@
 ## Accuracy using Deep Leaning Algorithm
 
 Convolutional Neural Network : 99.25%
+
+
+
+## Contents
+
+This repository contains the following files-
+
+1. `digitrecognition_lab.ipynb` - Python Script to create the model file `CNN_model.h5`.
+2. `test.ipynb` - Simple python notebook to test model.
+3. `ds_challenge_train.csv` - training dataset
+4. `test.csv` - mock-up testing dataset
+
+1. `photo_1.jpg` - Test image number 1 to test the classifier
+2. `photo_2.jpg` - Test image numbre 2 to test the classifier
