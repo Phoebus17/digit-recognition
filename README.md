@@ -11,7 +11,8 @@
 3. Numpy
 4. Pandas
 5. Matplot
-6. Google Colaboratory
+6. Keras
+7. Google Colaboratory
 
 
 
