@@ -6,7 +6,7 @@
 
 ## Environments
 
-1. Python 3.5+
+1. Python 3.6+
 2. Scikit-Learn
 3. Numpy
 4. Pandas
