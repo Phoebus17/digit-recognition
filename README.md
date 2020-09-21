@@ -18,7 +18,7 @@
 
 ## Accuracy using Deep Leaning Algorithm
 
-Convolutional Neural Network : 99.25%
+Convolutional Neural Network : 99.20%
 
 
 
